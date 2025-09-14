@@ -39,31 +39,39 @@
             text-decoration: none;
             font-weight: bold;
         }
-        aside {
-            background: #f5f5f5;
-            padding: 1em;
-            width: 25%;
-            float: left;
-        }
         main {
-            padding: 1em;
-            width: 70%;
-            float: right;
+            padding: 2em;
+            max-width: 900px;
+            margin: auto;
         }
         .news-item {
             margin-bottom: 2em;
+            text-align: center;
         }
         .news-item img {
             display: block;
             max-width: 100%;
             height: auto;
-            margin: 0 auto 10px auto;
+            margin: 0 auto 15px auto;
+            border-radius: 8px;
         }
         .news-item h2 {
             margin-bottom: 0.5em;
+            color: #004d40;
         }
         .news-item p {
             text-align: justify;
+            line-height: 1.6;
+        }
+        .news-item a {
+            display: inline-block;
+            margin-top: 10px;
+            color: #00796b;
+            font-weight: bold;
+            text-decoration: none;
+        }
+        .news-item a:hover {
+            text-decoration: underline;
         }
         footer {
             clear: both;
@@ -88,32 +96,27 @@
             <ul>
                 <li><a href="index.html">Beranda</a></li>
                 <li><a href="berita.html">Berita</a></li>
-                <li><a href="layanan.html">Dokumentasi</a></li>
+                <li><a href="syarat_daftar.html">Syarat & Pendaftaran</a></li>
+                <li><a href="linkterkait.html">Link Terkait</a></li>
             </ul>
         </nav>
 
-        <div>
-            <aside>
-                <h3>Link Terkait</h3>
-                <ul>
-                    <li><a href="https://www.itera.ac.id/" target="_blank">Website ITERA</a></li>
-                    <li><a href="https://sdgs.un.org/goals" target="_blank">SDGs</a></li>
-                    <li><a href="https://kkn.itera.ac.id/" target="_blank">Portal KKN ITERA</a></li>
-                    <li><a href="https://www.instagram.com/kkn_itera/" target="_blank">Instagram KKN ITERA</a></li>
-                </ul>
-            </aside>
-
-            <main>
-                <article class="news-item">
-                    <img src="images/satu.jpg" alt="Foto Berita Penutupan KKN Kebangsaan XIII">
-                    <h2>Penutupan dan Penjemputan Mahasiswa KKN Kebangsaan XIII Tahun 2025 di Sulawesi Selatan</h2>
-                    <p>
-                        Acara penutupan dan penjemputan mahasiswa KKN Kebangsaan XIII Tahun 2025 diselenggarakan pada hari Rabu, 30 Juli 2025 di Aula Bupati Kabupaten Maros, Sulawesi Selatan. KKN Kebangsaan XIII tahun ini diikuti oleh 174 mahasiswa dari 96 perguruan tinggi di seluruh Indonesia termasuk 2 mahasiswa dari Itera. Kegiatan KKN ini berlangsung selama satu bulan penuh, dari 1–30 Juli 2025, dengan lokasi pengabdian tersebar di Kabupaten Maros (10 lokasi) dan Kabupaten Pangkep (11 lokasi pada 5 kecamatan), Provinsi Sulawesi Selatan.  
-                    </p>
-                    <a href="https://kkn.itera.ac.id/penutupan-dan-penjemputan-mahasiswa-kkn-kebangsaan-xiii-tahun-2025-di-sulawesi-selatan/" target="_blank">Baca Selengkapnya &raquo;</a>
-                </article>
-            </main>
-        </div>
+        <main>
+            <article class="news-item">
+                <img src="images/satu.jpg" alt="Foto Berita Penutupan KKN Kebangsaan XIII">
+                <h2>Penutupan dan Penjemputan Mahasiswa KKN Kebangsaan XIII Tahun 2025 di Sulawesi Selatan</h2>
+                <p>
+                    Acara penutupan dan penjemputan mahasiswa KKN Kebangsaan XIII Tahun 2025 diselenggarakan pada hari Rabu, 
+                    30 Juli 2025 di Aula Bupati Kabupaten Maros, Sulawesi Selatan. KKN Kebangsaan XIII tahun ini diikuti oleh 
+                    174 mahasiswa dari 96 perguruan tinggi di seluruh Indonesia termasuk 2 mahasiswa dari ITERA. 
+                    Kegiatan KKN ini berlangsung selama satu bulan penuh, dari 1–30 Juli 2025, dengan lokasi pengabdian tersebar 
+                    di Kabupaten Maros (10 lokasi) dan Kabupaten Pangkep (11 lokasi pada 5 kecamatan), Provinsi Sulawesi Selatan.  
+                </p>
+                <a href="https://kkn.itera.ac.id/penutupan-dan-penjemputan-mahasiswa-kkn-kebangsaan-xiii-tahun-2025-di-sulawesi-selatan/" target="_blank">
+                    Baca Selengkapnya &raquo;
+                </a>
+            </article>
+        </main>
 
         <footer>
             <p>&copy; 2025 Kuliah Kerja Nyata ITERA. Hak Cipta Dilindungi.</p>
