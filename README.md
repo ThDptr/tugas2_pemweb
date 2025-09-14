@@ -8,7 +8,7 @@ NIM: **123140043** 🎓
 
 ## 🌐 Link GitHub Pages
 Berikut link GitHub Pages saya:  
-👉 [Tugas_2]([https://username.github.io/pemweb/tugas2](https://thdptr.github.io/tugas2_pemweb/))  
+👉 [Tugas 2 - Pemrograman Web](https://thdptr.github.io/tugas2_pemweb/)
 
 *(Mohon maaf pak 🙏 karena saya mengerjakan mepet waktu pada pdf masih berupa link repository pak.)*  
 
