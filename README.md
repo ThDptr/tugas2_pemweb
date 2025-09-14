@@ -1,16 +1,17 @@
-# maafr pakk!  
+# maaf pakk!  
 
 Perkenalkan, nama saya **Tengku Hafid Diraputra**  
 NIM: **123140043** 🎓  
 
 ---
+*(Mohon maaf pak 🙏 karena saya mengerjakan mepet waktu pada pdf masih berupa link repository pak.)*  
 
 ## 🌐 Link GitHub Pages
 Berikut link GitHub Pages saya:  
-👉 [Klik di sini untuk melihat website](https://username.github.io/pemweb/tugas2)  
+👉 [Tugas_2]([https://username.github.io/pemweb/tugas2](https://thdptr.github.io/tugas2_pemweb/))  
 
-*(Mohon maaf pak 🙏 karena mepet waktu, saya hanya bisa mengumpulkan link repository ini dulu.)*  
+*(Mohon maaf pak 🙏 karena saya mengerjakan mepet waktu pada pdf masih berupa link repository pak.)*  
 
 ---
 
-✨ Terima kasih!
+✨ sekali lagi mohon maaf pak 🙏!
